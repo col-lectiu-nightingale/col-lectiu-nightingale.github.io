@@ -8,27 +8,27 @@ El **talent innovador** del nostre país és un actiu incalculable per trobar so
 
 D'altra banda, la **confiança** mútua entre les institucions i la ciutadania és i serà fonamental per entendre, respectar i col·laborar amb les decisions que, sens dubte, caldrà prendre. En aquest sentit, creiem que la **transparència** és vital per aconseguir aquesta confiança.  
 
-El probable perllongament en el temps de l’epidèmia, junt amb l’impacte social i econòmic de la mateixa, fa patent la necessitat de **desenvolupar estratègies per recuperar l’activitat econòmica i compatibilitzar-la amb la gestió de la salut pública**. Creiem que el coneixement científic i tècnic en el camp del tractament de dades serà clau en a aquesta tasca, ja que proporciona eines per analitzar escenaris, modelar sistemes complexos i conseqüentment optimitzar-ne els recursos i les decisions. 
+El probable perllongament en el temps de l’epidèmia, junt amb l’impacte social i econòmic de la mateixa, fa patent la necessitat de **desenvolupar estratègies per recuperar l’activitat econòmica i compatibilitzar-la amb la gestió de la salut pública**. Creiem que el coneixement científic i tècnic en el camp del tractament de dades serà clau en aquesta tasca, ja que proporciona eines per analitzar escenaris, modelar sistemes complexos i conseqüentment optimitzar-ne els recursos i les decisions. 
 
 Creiem doncs que, per respondre a aquesta crisi, les administracions públiques tenen el **deure i l'oportunitat de potenciar i desenvolupar aquests dos aspectes**, i demanem que, en un primer terme:
 
-1. Es publiquin diàriament les dades epidemiològiques als portals de dades obertes de l'administració, a un nivell de detall adequat (veure [Apèndix I](#apendix_1)) per assegurar-ne l'explotació estadística tot i garantint el dret a la privacitat, i en un format explotable per programari \[[2](#nota_2)\] tal i com ha estat demanat per experts en epidemiologia i salut pública \[[3](#nota_3)\].
+1. Es publiquin diàriament les dades epidemiològiques als portals de dades obertes de l'administració, a un nivell de detall adequat (vegeu [Apèndix I](#apendix_1)) per assegurar-ne l'explotació estadística tot garantint el dret a la privacitat, i en un format explotable per programari \[[2](#nota_2)\] tal com ha estat demanat per experts en epidemiologia i salut pública \[[3](#nota_3)\].
 
 I, seguidament:
 
 2. S’adoptin, amb el conjunt de les CCAA així com el Govern Central, uns criteris estàndards i universals de diagnòstic, classificació i reportatge de casos i defuncions, per tal d’evitar les discrepàncies de criteri fins ara observades en les dades reportades a nivell regional \[[4](#nota_4)\], \[[5](#nota_5)\].
 
-3. En cas que no existeixi, es desenvolupi un sistema informàtic de recollida, validació, agregació, ofuscació i difusió de les dades recollides en els punts d'actuació (hospitals, CAPs, telèfons d'emergència, aplicacions mòbils) en un format adequat que en permeti el tractament informàtic. Paral.lelament, creiem fermament en la importància de protegir el dret a la privacitat i les llibertats personals, i recollim a l'[Apèndix II](#apendix_2) algunes consideracions ètiques a tenir en compte a l'hora de recollir, agregar i publicar aquestes dades.
+3. En cas que no existeixi, es desenvolupi un sistema informàtic de recollida, validació, agregació, ofuscació i difusió de les dades recollides en els punts d'actuació (hospitals, CAPs, telèfons d'emergència, aplicacions mòbils) en un format adequat que en permeti el tractament informàtic. Paral·lelament, creiem fermament en la importància de protegir el dret a la privacitat i les llibertats personals, i recollim a l'[Apèndix II](#apendix_2) algunes consideracions ètiques a tenir en compte a l'hora de recollir, agregar i publicar aquestes dades.
 
 4. Es publiquin els models epidemiològics, sociosanitaris i econòmics emprats per modelitzar la progressió i l’impacte de l'epidèmia i estimar l’efectivitat de les intervencions, a fi d'estimular el debat científic sobre la validesa, fiabilitat i precisió dels mateixos.
 
 Creiem que la recollida i l’obertura d'aquestes dades facilitaria el desenvolupament de noves eines per lluitar contra les conseqüències sanitàries, socials i econòmiques de la pandèmia, per exemple:
 
 * La visualització, contextualització, anàlisi i comunicació precisa de les dimensions de la pandèmia per tal d’informar i conscienciar la ciutadania, 
-* El desenvolupament d'estratègies de mostreig avançades per maximizar el nombre de d’infeccions detectades (simptomàtiques o asimptomàtiques) amb el mínim nombre de tests,
+* El desenvolupament d'estratègies de mostreig avançades per maximitzar el nombre d’infeccions detectades (simptomàtiques o asimptomàtiques) amb el mínim nombre de tests,
 * El desenvolupament d'estratègies de confinament selectiu sofisticades, per minimitzar l'impacte econòmic tot limitant la progressió de la pandèmia,
 * El desenvolupament de models predictius per a millorar la gestió d’una possible segona onada el proper hivern,
-* El desenvolupament de models d'Intel.ligència Artificial de pre-diagnòstic ràpid basat en dades de localització, potencial exposició a contactes, símptomes o d'altres,
+* El desenvolupament de models d'Intel·ligència Artificial de pre-diagnòstic ràpid basat en dades de localització, potencial exposició a contactes, símptomes o d'altres,
 * El desenvolupament de models de quantificació de l'impacte econòmic en funció de la severitat de les estratègies d’alentiment d’activitat econòmica i de distanciament social.
 
 Som molts els professionals en el sector tecnològic i científic preocupats per la situació actual, però esperançats per la resposta cívica que ha desencadenat. Treballem plegats, societat civil, administració i tota mena d'institucions per fer front al major repte del segle i sortir-ne enfortits!
