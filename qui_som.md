@@ -1,3 +1,5 @@
+# Qui som?
+
 Som una cincuantena de professionals de les dades (personal acadèmic i investigador, científics de dades, 
 periodistes i enginyers) preocupats per la crisi actual i per les consequències sanitàries, socials i econòmiques 
 a curt i llarg termini. Hem escollit el nostre nom en homenatge a [Florence Nightingale](https://ca.wikipedia.org/wiki/Florence_Nightingale) 
