@@ -35,9 +35,13 @@ Som molts els professionals en el sector tecnològic i científic preocupats per
 
 
 \[1\]<a name="nota_1"></a> Des del dia 28 de Març, [aquesta última aplicació sembla ser adoptada pel Govern Central, segons el BOE 4162](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4162)
+
 \[2\]<a name="nota_2"></a> Celebrem la iniciativa recent de la Generalitat de Catalunya de publicar les dades a nivell local al portal de l'[AQuAS](http://aquas.gencat.cat/ca/actualitat/ultimes-dades-coronavirus) i al [portal de dades obertes de la Generalitat](https://analisi.transparenciacatalunya.cat/ca/browse?q=covid-19&sortBy=relevance), així com del Govern d'Espanya a nivell de Comunitat Autònoma al [portal de l'Instituto de Salud Carlos III](https://covid19.isciii.es/). En el primer cas, demanem que les dades es publiquin en un format accessible, veure per exemple [aquest repositori](https://github.com/ibesora/covid-19-scrapper). En el segon cas, demanem al Govern Central que comenci a publicar les dades de tests administrats a més d'una segregació per regió, edat, sexe, etc.
+
 \[3\]<a name="nota_3"></a> O. Mitjà et al. ["Experts’ request to the Spanish Government: move Spain towards complete lockdown"](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30753-4/fulltext)
+
 \[4\]<a name="nota_4"></a> [Los diferentes criterios con los que se recogen los datos impiden conocer la dimensión de la epidemia en España](https://www.eldiario.es/sociedad/coronavirus-epidemia-datos_0_1011399968.html), eldiario.es, 30/03/2020, 
+
 \[5\]<a name="nota_5"></a> A. L. García-Basteiro et al, [Monitoring the COVID-19 epidemic in the context of widespread local transmission](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30162-4/fulltext)
 
 
