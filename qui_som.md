@@ -10,4 +10,4 @@ l'obertura de les dades i, en general, la transparència en la gestió de la cri
 estimular la confiança de la ciutadania i desenvolupar eines per gestionar la crisis. En donem més detalls 
 a la nostra [carta oberta](https://col-lectiu-nightingale.github.io/).
 
-Ens podeu contactar a: **col.lectiu.nighitingale** `@` gmail.com
+Ens podeu contactar a: **col.lectiu.nightingale** `@` gmail.com
