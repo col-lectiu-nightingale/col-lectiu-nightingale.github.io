@@ -6,4 +6,20 @@ i vols adherir-te a la iniciativa, cal omplir [aquest formulari](https://forms.g
 
 ## Signants
 
-* 
+(Per ordre de signatura)
+
+* Isaac Besora Vilardaga, Enginyer Informàtic
+* Arnau Tibau Puig, PhD, Head of Data Science at letgo
+* ALBERT DIAZ GUILERA, Catedràtic, Director del UBICS
+* Eli Vivas, Cofundador / Storydata 
+* Aurelio Tobías, Investigador Científico / IDAEA-CSIC
+* Jordi Vitrià Marca, Catedràtic de la Universitat de Barcelona
+* Noelia Viles, Científica de dades, Nestlé
+* Sebastián Ortega Torres, Software Engineer at letgo
+* Paul Rodoreda, Director of Operations at Haufe Group
+* Joan Valls Marsal, Investigador / Institut de Recerca Biomèdica de Lleida
+* Manuel Bruscas, Co-founder BcnAnalytics 
+* Aleix Ruiz de Villa Robert, Consultor en Data Science 
+* David Masip,	Científic de dades, Pagantis
+* Maria Mercè Farré Cervelló,	Prof. Titular d'Universitat, UAB (U. Autònoma de Bcn)
+* Santi Seguí,	Professor Universitat
