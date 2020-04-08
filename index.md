@@ -10,7 +10,7 @@ D'altra banda, la **confiança** mútua entre les institucions i la ciutadania �
 
 El probable perllongament en el temps de l’epidèmia, junt amb l’impacte social i econòmic de la mateixa, fa patent la necessitat de **desenvolupar estratègies per recuperar l’activitat econòmica i compatibilitzar-la amb la gestió de la salut pública**. Creiem que el coneixement científic i tècnic en el camp del tractament de dades serà clau en a aquesta tasca, ja que proporciona eines per analitzar escenaris, modelar sistemes complexos i conseqüentment optimitzar-ne els recursos i les decisions. 
 
-Creiem doncs que, per respondre a aquesta crisi, les administracions públiques tenen el**deure i l'oportunitat de potenciar i desenvolupar aquests dos aspectes**, i demanem que, en un primer terme:
+Creiem doncs que, per respondre a aquesta crisi, les administracions públiques tenen el **deure i l'oportunitat de potenciar i desenvolupar aquests dos aspectes**, i demanem que, en un primer terme:
 
 1. Es publiquin diàriament les dades epidemiològiques als portals de dades obertes de l'administració, a un nivell de detall adequat (veure [Apèndix I](#apendix_1)) per assegurar-ne l'explotació estadística tot i garantint el dret a la privacitat, i en un format explotable per programari \[[2](#nota_2)\] tal i com ha estat demanat per experts en epidemiologia i salut pública \[[3](#nota_3)\].
 
