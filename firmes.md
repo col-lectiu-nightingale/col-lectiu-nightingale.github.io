@@ -6,7 +6,7 @@ i vols adherir-te a la iniciativa, cal omplir [aquest formulari](https://forms.g
 
 ## Signants
 
-(Per ordre de signatura)
+(Per ordre de signatura, ultima actualització: 18h44 del 8/4/2020)
 
 * Isaac Besora Vilardaga, Enginyer Informàtic
 * Arnau Tibau Puig, PhD, Head of Data Science at letgo
