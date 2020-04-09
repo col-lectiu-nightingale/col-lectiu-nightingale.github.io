@@ -23,3 +23,8 @@ i vols adherir-te a la iniciativa, cal omplir [aquest formulari](https://forms.g
 * David Masip,	Científic de dades, Pagantis
 * Maria Mercè Farré Cervelló,	Prof. Titular d'Universitat, UAB (U. Autònoma de Bcn)
 * Santi Seguí,	Professor Universitat
+* Miquel Colomer,	Professor / Universitat de Barcelona
+* Oriol Pujol Vila,	Professor Titular de la Universitat de Barcelona
+* Fernando Alonso-Cortés Rodríguez,	Licenciado en CC Económicas y Empresariales por la Univ. Pontificia Comillas (ICADE)
+* Daniel sànchez Flamarich,	Data Scientist
+* Xavier Jacas, Data Lead at Tiendeo
