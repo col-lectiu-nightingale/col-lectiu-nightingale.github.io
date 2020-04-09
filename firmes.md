@@ -6,7 +6,7 @@ i vols adherir-te a la iniciativa, cal omplir [aquest formulari](https://forms.g
 
 ## Signants
 
-(Per ordre de signatura, ultima actualització: 18h44 del 8/4/2020)
+(Per ordre de signatura, ultima actualització: 18h00 del 9/4/2020)
 
 * Isaac Besora Vilardaga, Enginyer Informàtic
 * Arnau Tibau Puig, PhD, Head of Data Science at letgo
@@ -28,3 +28,6 @@ i vols adherir-te a la iniciativa, cal omplir [aquest formulari](https://forms.g
 * Fernando Alonso-Cortés Rodríguez,	Licenciado en CC Económicas y Empresariales por la Univ. Pontificia Comillas (ICADE)
 * Daniel sànchez Flamarich,	Data Scientist
 * Xavier Jacas, Data Lead at Tiendeo
+* Alexandra Abós Ortega	PhD, Data Scientist
+* Jordi de Batlle,	Epidemiòleg IRBLLeida
+* Xisca Pericàs,	Senior data science, NAE
