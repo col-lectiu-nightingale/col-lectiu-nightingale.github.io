@@ -6,7 +6,7 @@ i vols adherir-te a la iniciativa, cal omplir [aquest formulari](https://forms.g
 
 ## Signants
 
-(Per ordre de signatura, ultima actualització: 18h00 del 9/4/2020)
+(Per ordre de signatura, ultima actualització: 11h00 del 10/4/2020)
 
 * Isaac Besora Vilardaga, Enginyer Informàtic
 * Arnau Tibau Puig, PhD, Head of Data Science at letgo
@@ -31,3 +31,4 @@ i vols adherir-te a la iniciativa, cal omplir [aquest formulari](https://forms.g
 * Alexandra Abós Ortega	PhD, Data Scientist
 * Jordi de Batlle,	Epidemiòleg IRBLLeida
 * Xisca Pericàs,	Senior data science, NAE
+* Oleguer Plana Ripoll, Investigador postdoctoral en epidemiologia, Aarhus University (Dinamarca)
