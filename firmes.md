@@ -36,3 +36,5 @@ i vols adherir-te a la iniciativa, cal omplir [aquest formulari](https://forms.g
 * Ernest Pons Fanals, Universitat de Barcelona
 * Marc Clos, Postdoc
 * Adrià Vallès Paüls, VP of Engineering @ letgo
+* Francesc Martori,	Head of Data Science a Konodrac
+* Marc Saez Zafra,	Catedràtic d'Estadística i Econometria, Universitat de Girona
