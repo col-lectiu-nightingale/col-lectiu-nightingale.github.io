@@ -38,3 +38,4 @@ i vols adherir-te a la iniciativa, cal omplir [aquest formulari](https://forms.g
 * Adrià Vallès Paüls, VP of Engineering @ letgo
 * Francesc Martori,	Head of Data Science a Konodrac
 * Marc Saez Zafra,	Catedràtic d'Estadística i Econometria, Universitat de Girona
+* Maria Antonia Barceló Rado, Profesora Titular Estadística i Econometria, Grup de Recerca en Estadística, Econometria i Salut, Universitat de Girona
