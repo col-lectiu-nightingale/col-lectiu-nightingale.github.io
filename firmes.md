@@ -6,7 +6,7 @@ i vols adherir-te a la iniciativa, cal omplir [aquest formulari](https://forms.g
 
 ## Signants
 
-(Per ordre de signatura, ultima actualització: 10h00 del 12/4/2020)
+(Per ordre de signatura, ultima actualització: 18h00 del 13/7/2020)
 
 * Isaac Besora Vilardaga, Enginyer Informàtic
 * Arnau Tibau Puig, PhD, Head of Data Science at letgo
@@ -39,3 +39,5 @@ i vols adherir-te a la iniciativa, cal omplir [aquest formulari](https://forms.g
 * Francesc Martori,	Head of Data Science a Konodrac
 * Marc Saez Zafra,	Catedràtic d'Estadística i Econometria, Universitat de Girona
 * Maria Antonia Barceló Rado, Profesora Titular Estadística i Econometria, Grup de Recerca en Estadística, Econometria i Salut, Universitat de Girona
+* Jaume Martín Boosch, 5G Programme Manager MWCB
+* Oriol del Río López,	Desenvolupador de Software a OLX Group
