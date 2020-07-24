@@ -1,5 +1,7 @@
 # Carta oberta a les administracions públiques Catalanes i Espanyoles
 
+_Barcelona, 8 d'Abril de 2020_
+
 La crisi sanitària, social i econòmica generada per l’actual pandèmia representa el major repte de la nostra generació. Més enllà de l’esforç sobrehumà assumit pel nostre personal sanitari i d'altres treballadors d'institucions públiques i privades, la situació actual requereix una resposta conjunta i cohesionada de totes les institucions i de la societat civil.
 
 Creiem que el **talent innovador** i la **confiança** són dues pedres angulars per tal d'afrontar amb èxit el repte sanitari de caire immediat, així com els reptes socials i econòmics que apareixeran a mitjà i llarg termini.
