@@ -6,7 +6,7 @@ i vols adherir-te a la iniciativa, cal omplir [aquest formulari](https://forms.g
 
 ## Signants
 
-(Per ordre de signatura, ultima actualització: 18h00 del 13/7/2020)
+(Per ordre de signatura, ultima actualització: 12h00 del 27/7/2020)
 
 * Isaac Besora Vilardaga, Enginyer Informàtic
 * Arnau Tibau Puig, PhD, Head of Data Science at letgo
@@ -41,3 +41,4 @@ i vols adherir-te a la iniciativa, cal omplir [aquest formulari](https://forms.g
 * Maria Antonia Barceló Rado, Profesora Titular Estadística i Econometria, Grup de Recerca en Estadística, Econometria i Salut, Universitat de Girona
 * Jaume Martín Boosch, 5G Programme Manager MWCB
 * Oriol del Río López,	Desenvolupador de Software a OLX Group
+* Carles Ubach Nualart,	Enginyer Industrial. Professor a la Fundació UPC.
